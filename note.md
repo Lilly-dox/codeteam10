@@ -18,3 +18,6 @@ Remote
 - git checkout -b {branch name}
 - git merge {branch name}
 - git branch -d {branch name}
+- git push
+- git remote add ... duong dan
+
