@@ -20,4 +20,4 @@ Remote
 - git branch -d {branch name}
 - git push
 - git remote add ... duong dan
-
+- git clone ...
