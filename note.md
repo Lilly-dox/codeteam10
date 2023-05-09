@@ -21,4 +21,4 @@ Remote
 - git push
 - git remote add ... duong dan
 - git clone ...
-
+- git push -u ... {branch name}
